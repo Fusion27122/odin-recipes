@@ -1,0 +1,1 @@
+This project is going to be a very basic recipe website that I make during my learning and training of HTML, CSS, and Javascript with Odin project. As I advance through the courses I will develop the website into something more pleasing to look at.
